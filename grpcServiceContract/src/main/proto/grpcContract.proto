@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+// each class is defined in each own file, inside a common package
+option java_multiple_files = true;
+option java_package = "contract";
+
+package contract; // package do proto
+
+service FileService {
+  rpc ReceiveFilesWithLabel(RequestFiles) returns (stream ResultFiles);
+  rpc UploadFileToStorage(stream Contents) returns (stream ResultUpload);
+}
+
+message RequestFiles {
+  string date1 = 1;
+  string date2 = 2;
+  string label = 3;
+  bool download = 4;
+}
+
+message ResultFiles {
+  int32 totalBlocks = 1;
+  string filename = 2;
+  bytes data = 3;
+}
+
+message Contents {
+  bytes fileBlockBytes = 1;
+  string filename = 2;
+  string contentType = 3;
+  enum Flags {
+    NONE = 0;
+    OVERWRITE = 1;
+    KEEP_BOTH = 2;
+  }
+  Flags flag = 4;
+}
+message ResultUpload {
+  string filename = 1;
+  string label = 2;
+}

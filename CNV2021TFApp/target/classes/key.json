@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "g08-t3n-v2021",
+  "private_key_id": "9e0edff316522a683012a5f62641c4d38b979b4b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCed3t3ePACQk+V\n2M/OgjLD4quHyEIY4oTRdMCaGg4Cojvks7O1bPWDCTHmp/WZPxCb1spLRVGwmEr0\nh8k+am4AcNEKk4P5x3AKHVwSV0Zbr+d1C9mEyIq9PYrpWpe4haK25JvmMfRQ/Dxp\nwB7baswCrR3EpQ77MfRCbQAmPbv5qb2UXim6qIyqOYGtBrKKf+Do6omJA6aKjDGV\n/w8Rj0Kszd2IKq17AxLvnzPvI91fThSOnEBceQkaGBO7STrZyuc+Sk9CjdIpQp8j\nfqYxYkbkNBzEwCQHnAuGNcSgbyGEy8XcYTBQQTE/QUsKc1KaIi6K2e9kbm/R7X0S\nQKKYZnqxAgMBAAECggEAA4dUP9QjlAlMowuRj7RP074nulL36ydFdIc4WrYbJcKI\nZDlUK8ViBNRJliybSBmivGBLX421mfcU2YkZ2W1JRx07/75KgV9dhqbMtrksHz01\ngY0NVOrvm/Mo4AqyYjDSRLxRHw5xtZ6dlxqTaqi1eOxzQz5hrQTvFCOVOJobUMiG\nhaiXnRhMBaZRHYgaDHjIyFA8vA8m2Ne4tvvGJ2sr0t/r7shZaAf5/D1/YXdd7+b5\nEoHAUoC8zF0PRFFIqJZqtx4XFFsvKlp2v+2VC6VxmK+bdjWDEw9JsRFwfw0fOFLz\nOMceib/XOWS4q6VR41Pj1aQqjrThFEL6fNVtGXOLmQKBgQDMCTMlbNrzL5DEvV6s\n84zFUEmPL/9tCuPnBTf+3r4/cZLdwRZzofouTeTYzjyki+jtmX18z+zoWXPivWjW\nHTWgLQUg9SprW5BVRjqOSrdaW1jSrB4OAZsn6J4VIM7zBZgfNTuhgZcxxvGAoFGq\npB2JGWr12HWTD0L87OzkSLwbqwKBgQDG0z8khQS4XOUQ7oHac7gQD0T9Vhzb0vEc\nXTwLx3WTL9BvOQ3gqpj4eZai4fiEnpvUe7NCgqedz6K8YvC2RbEd3cnh+UGSCd94\nky3vsG9L0yQ9Q53Ehu8ZHZHMLofPDBg/b2thC4cX7finJhG3SNtGzBF/iI//S0Bp\n9WS2cExHEwKBgQCq1sEmgwDJQnh64vzU35Bs3g7Zf5zlVosAspPyKdsuEBCi8Lu1\n0lhCUSJejkCknilIWI6D5S0+Vzf7EBEpxodSOJ/kuqLsBVzSqdz5q4HefEHhFBCO\nNbYOMm26zx+4yGRZLR9i2bkZCrTHuHTo5kV8t/WhJ786hTrXwCGR+3zVxQKBgGco\nZYN6LJfHQuZFCUShc6eJdJ8IldKMIKM50JS/+UXTsg5zCLs/aDzLQRfjrICKlolp\nYPmqNnNPrryVjRTVFe9MCpnfLGEsFDFIE7Zf0W8C7rOGqI22AMoEKIhKwBXxzYbk\nNU9VntMQmkmHG/v/ph2WdaG45hVsItCXDJkHrNvXAoGAeMekCQWd3r1L/WY9rxg1\no34grwNR7rY0OhQqx7a1oNkp7EPdf9+FaL17agcpB9vQJGOHpDsSL+GJvaLOBYJb\ntq++0kLWh9ESV7UMYnE5OWj/WXgLkgVpAu6WQmx5KuXVcZNqSucXiHT2fZTZ0rGL\n5RpXG7R3dFcFcFzgbH+8Il0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sandro-trabalho-final-cn@g08-t3n-v2021.iam.gserviceaccount.com",
+  "client_id": "107855814081253617939",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sandro-trabalho-final-cn%40g08-t3n-v2021.iam.gserviceaccount.com"
+}

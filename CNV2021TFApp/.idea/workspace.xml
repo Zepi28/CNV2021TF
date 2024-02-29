@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d6e9ec0-426c-4d7f-8598-31deb3026de8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/any.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/api.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/compiler/plugin.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/descriptor.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/duration.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/empty.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/field_mask.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/source_context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/struct.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/timestamp.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/type.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/8c1062a0ca7c56f9fc5f2942a687ae61/google/protobuf/wrappers.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/annotations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/auth.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/backend.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/billing.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/client.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/config_change.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/consumer.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/control.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/distribution.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/documentation.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/endpoint.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/field_behavior.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/http.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/httpbody.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/label.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/launch_stage.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/log.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/logging.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/metric.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/monitored_resource.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/monitoring.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/quota.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/resource.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/source_info.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/system_parameter.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/api/usage.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/cloud/audit/audit_log.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/geo/type/viewport.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/logging/type/http_request.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/logging/type/log_severity.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/longrunning/operations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/rpc/code.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/rpc/context/attribute_context.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/rpc/error_details.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/rpc/status.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/calendar_period.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/color.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/date.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/datetime.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/dayofweek.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/expr.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/fraction.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/latlng.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/money.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/postal_address.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/quaternion.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/e92968aa3d5482d07f81f11db1705b92/google/type/timeofday.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminManager/.idea/AdminManager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminManager/.idea/AdminManager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminManager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminManager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CNV2021TFApp-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/CNV2021TFApp-1.0-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CNV2021TFApp-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/CNV2021TFApp-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TranslateAPICloudFunction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TranslateAPICloudFunction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/classes/contract/Contents$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/classes/contract/Contents$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/classes/contract/Contents$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/classes/contract/Contents$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/classes/contract/Contents.class" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/classes/contract/Contents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/classes/grpcContract.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/classes/grpcContract.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/grpc-java/contract/FileServiceGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/grpc-java/contract/FileServiceGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/Contents.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/Contents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/ContentsOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/ContentsOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/GrpcContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/GrpcContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/RequestFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/RequestFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/RequestFilesOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/RequestFilesOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/ResultFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/ResultFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/ResultFilesOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/ResultFilesOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/ResultUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/ResultUpload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/ResultUploadOrBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/generated-sources/protobuf/java/contract/ResultUploadOrBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/grpcServiceContract-1.0-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/grpcServiceContract-1.0-jar-with-dependencies.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/grpcServiceContract-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/grpcServiceContract-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServiceContract/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/any.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/api.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/compiler/plugin.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/descriptor.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/duration.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/empty.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/field_mask.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/source_context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/struct.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/timestamp.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/type.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/1d1df8f30c8dbd1be863efdf8834d568/google/protobuf/wrappers.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/annotations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/auth.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/backend.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/billing.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/client.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/config_change.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/consumer.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/control.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/distribution.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/documentation.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/endpoint.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/field_behavior.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/http.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/httpbody.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/label.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/launch_stage.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/log.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/logging.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/metric.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/monitored_resource.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/monitoring.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/quota.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/resource.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/service.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/source_info.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/system_parameter.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/api/usage.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/cloud/audit/audit_log.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/geo/type/viewport.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/logging/type/http_request.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/logging/type/log_severity.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/longrunning/operations.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/rpc/code.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/rpc/context/attribute_context.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/rpc/error_details.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/rpc/status.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/calendar_period.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/color.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/date.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/datetime.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/dayofweek.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/expr.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/fraction.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/latlng.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/money.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/postal_address.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/quaternion.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServiceContract/target/protoc-dependencies/58dcb28d4a90ee295fd7d9b08d7570ee/google/type/timeofday.proto" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1u85CfMr2ZYWniVPFVsqSV87LeU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../grpcServiceContract/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\CNV2021TFApp\src\main" />
+      <recent name="C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\CNV2021TFApp" />
+      <recent name="C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\CNV2021TFApp\src\test\java" />
+      <recent name="C:\Users\sandr\Desktop\CN_labs\TrabalhoFinalRecursos\CNV2021TFApp" />
+      <recent name="C:\Users\sandr\Desktop\CN_labs\TrabalhoFinalRecursos\CNV2021TFApp\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Controller">
+    <configuration name="BucketStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="storage.BucketStorage" />
+      <module name="CNV2021TFApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="storage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Controller" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="controller.Controller" />
+      <module name="CNV2021TFApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloadBlobTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CNV2021TFApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DownloadBlobTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloadBlobTest.getipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CNV2021TFApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DownloadBlobTest" />
+      <option name="METHOD_NAME" value="getipTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloadBlobTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CNV2021TFApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DownloadBlobTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloadBlobTest.uploadAndDownloadBlobTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CNV2021TFApp" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DownloadBlobTest" />
+      <option name="METHOD_NAME" value="uploadAndDownloadBlobTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Controller" />
+      <item itemvalue="Application.BucketStorage" />
+      <item itemvalue="JUnit.DownloadBlobTest" />
+      <item itemvalue="JUnit.DownloadBlobTest.getipTest" />
+      <item itemvalue="JUnit.DownloadBlobTest.test" />
+      <item itemvalue="JUnit.DownloadBlobTest.uploadAndDownloadBlobTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DownloadBlobTest" />
+        <item itemvalue="Application.BucketStorage" />
+        <item itemvalue="JUnit.DownloadBlobTest.uploadAndDownloadBlobTest" />
+        <item itemvalue="JUnit.DownloadBlobTest.getipTest" />
+        <item itemvalue="JUnit.DownloadBlobTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d6e9ec0-426c-4d7f-8598-31deb3026de8" name="Default Changelist" comment="" />
+      <created>1624034250976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624034250976</updated>
+      <workItem from="1624034252168" duration="282000" />
+      <workItem from="1624046950289" duration="1981000" />
+      <workItem from="1624049574067" duration="2936000" />
+      <workItem from="1624097659657" duration="2574000" />
+      <workItem from="1624109539861" duration="475000" />
+      <workItem from="1624110071149" duration="2376000" />
+      <workItem from="1624117218332" duration="343000" />
+      <workItem from="1624185121963" duration="10924000" />
+      <workItem from="1624201561627" duration="10935000" />
+      <workItem from="1624215196661" duration="148000" />
+      <workItem from="1624279086823" duration="66000" />
+      <workItem from="1624492370256" duration="8000" />
+      <workItem from="1624492402485" duration="862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1624492477418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624492477418" />
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1624493271393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624493271393" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1624493271393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624493271393" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1624493271393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624493271393" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1624493271393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624493271393" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1624492436295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1624492436295" />
+  </component>
+</project>

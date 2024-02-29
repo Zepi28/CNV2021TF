@@ -1,0 +1,11 @@
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\blobsOperations\StorageOperations.java
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\ctrl\Server.java
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\ctrl\ServerStreamObserver.java
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\firestore\Blob.java
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\ctrl\Label.java
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\ctrl\ListFilesStream.java
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\firestore\Database.java
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\pubsub\PubSub.java
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\exceptions\DuplicateBlobException.java
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\firestore\KeyCredential.java
+C:\Users\sandr\Desktop\CN_labs\TrabalhoFinal\grpcServer\src\main\java\exceptions\FirestoreDuplicateException.java

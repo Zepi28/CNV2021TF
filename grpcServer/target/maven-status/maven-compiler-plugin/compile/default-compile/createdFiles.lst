@@ -1,0 +1,11 @@
+firestore\KeyCredential.class
+ctrl\ServerStreamObserver.class
+ctrl\Label.class
+ctrl\Server.class
+exceptions\DuplicateBlobException.class
+firestore\Blob.class
+firestore\Database.class
+exceptions\FirestoreDuplicateException.class
+pubsub\PubSub.class
+ctrl\ListFilesStream.class
+blobsOperations\StorageOperations.class
